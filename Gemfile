@@ -48,6 +48,7 @@ end
 # ADDED GEMS
 gem 'bootstrap'
 gem 'react-rails'
+gem "webpacker"
 
 group :production do
   gem 'rails_12factor'
